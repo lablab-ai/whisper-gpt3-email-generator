@@ -1,6 +1,8 @@
 # Whisper gpt3 email generator
 Generate kind and formal email from voice input
 
+Read more about Whisper here: https://lablab.ai/tech/whisper
+
 ---
 
 [![Artificial Intelligence Hackathons, tutorials and Boilerplates](https://storage.googleapis.com/lablab-static-eu/images/github/lablab-banner.jpg)](https://lablab.ai)
